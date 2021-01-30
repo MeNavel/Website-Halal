@@ -1,3 +1,4 @@
+<!-- karena di buat mendadak tolong diperbaiki lagi UInya -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -471,6 +472,5 @@ https://templatemo.com/tm-537-art-factory
     <script src="{{ asset('ecommerce/assets/js/waypoints.min.js') }}"></script>
     <script src="{{ asset('ecommerce/assets/js/imgfix.min.js') }}"></script>
     <script src="{{ asset('ecommerce/assets/js/custom.js') }}"></script> --}}
-
-  </body>
+ </body>
 </html>
